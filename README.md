@@ -9,3 +9,9 @@ npm i --save acknowtt-font
 ```js
 import from 'acknowtt-font';
 ```
+
+```css
+.MyApp {
+  font-family: Acknowtt;
+}
+```
