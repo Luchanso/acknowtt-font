@@ -1,0 +1,19 @@
+{
+  "name": "acknowtt-font",
+  "version": "2.0.0",
+  "description": "### Install ```sh npm i --save acknowtt-font ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luchanso/acknowtt-font.git"
+  },
+  "author": "Loutchansky Oleg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luchanso/acknowtt-font/issues"
+  },
+  "homepage": "https://github.com/Luchanso/acknowtt-font#readme"
+}
